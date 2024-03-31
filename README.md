@@ -22,29 +22,14 @@
 [![Enlaces](https://img.shields.io/badge/Encontra_todos_los_enlace_en_un_único_lugar-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://atom.bio/lolibot)
 </div>
     
-### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
+### `👑 CONTACTAME 👑`
 <p align="center">
 <a href="https://github.com/andr1c"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
 <a href="wa.me/59173315260" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-### `🟢 Bot Oficial 🟢`
-<a href="https://wa.me/73315260" target="blank"><img src="https://img.shields.io/badge/NovaBot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+### `🟢 número 2 🟢`
+<a href="https://wa.me/59178232529" target="blank"><img src="https://img.shields.io/badge/NovaBot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-### Quieres probar la funciones del bot, antes de instalar, probar el bot aquí
-
-[![Grupos](https://img.shields.io/badge/Grupos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KixLH7hCmQm0QKW5huB8gn) 
-
------------------- 
-
-### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝚁𝙴𝙿𝙻𝙸𝚃`
-
-[![blog](https://img.shields.io/badge/Replit-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/SMjCcfuyWQE)
-
-[![Run on Repl.it](https://repl.it/badge/github/elrebelde21/NovaBot-MD)](https://repl.it/github/andr1c/NovaBot-MD) 
-
------------------- 
 
